@@ -1,0 +1,9 @@
+{
+	"ip":"AbhidivyaJUYT.aternos.me",
+	"port": 49842,
+	"name": "serverpro",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (12345))",
+	"login-cmd":"/login (12345)"
+}
